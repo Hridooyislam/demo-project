@@ -7,7 +7,7 @@
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hello, Hridoy!!");
             Console.WriteLine("Hello, tonmoy!!");
-            Console.WriteLine("Hello, Sami kalsdj ");
+            Console.WriteLine("Hello, Adnan Sami!!");
         }
     }
 }
